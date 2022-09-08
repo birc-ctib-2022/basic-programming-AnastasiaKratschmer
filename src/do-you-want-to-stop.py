@@ -3,5 +3,4 @@
 n=input("Do you want me to stop?")
 
 while(n == "no"):
-    print("hahahaahha let's keep going then!!!!")
     n = input("Do you want me to stop?")
