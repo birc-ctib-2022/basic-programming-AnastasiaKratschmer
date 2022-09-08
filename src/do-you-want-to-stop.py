@@ -2,4 +2,4 @@
 # the answer is "yes" (lower case).
 n=input("Do you want to stop? ")
 while(n == "no"):
-    n = input("Do you want to stop ?")
+    n = input("Do you want to stop? ")
